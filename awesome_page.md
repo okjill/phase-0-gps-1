@@ -6,4 +6,4 @@ This **GPS** session is *awesome*!
 
 ![screenshot of Anca + Jill's GPS 1.1](http://screencast.com/t/CocnJfky)
 
-This is a different change that will hopefully create a merge conflict! 
+To be continued...
